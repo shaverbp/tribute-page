@@ -1,0 +1,75 @@
+@media on screen and (max-width: none) {
+  img: none;
+}
+}
+/*
+#main {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  background: #d3d3d3 ;
+
+}
+*/
+
+/*
+body {
+background: white;
+position: relative;
+margin-left: 10%;
+}
+*/
+
+
+#title {
+  font: Arial sans-serif;
+  text-align: center;
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/*
+#img-div {
+max-width: 100%;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+align: center;
+}
+*/
+#image-caption {
+
+}
+
+#tribute-info {
+
+}
+
+#tribute-link {
+
+}
+
+.subtitile {
+  text-align: center;
+}
+
+@media screen and (min-width: 305px) {
+body {
+ width: 100%;
+}
+}
+/*
+.tribute-photo {
+height: 800px;
+width: 800px;
+align-content: center;
+}
+*/
